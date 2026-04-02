@@ -5,7 +5,7 @@
 - Consulta de Tasa de interes promedios de ahorros y créditos, SPREAD como indentificador de mayor ganancia y menor ganancia desde los 8 hasta los 4.
 - Ejemplo de consulta:
   ´´´ sql
-  select
+   select
 	b.nombre as Banco,
 	b.tipo as TipoInsitucion,
 	avg(CASE WHEN p.categoria = 'Activo'
@@ -21,6 +21,5 @@ HistoricoTasas h
 INNER JOIN Bancos b on h.id_banco=b.id_banco
 INNER JOIN TipoProducto p on h.id_producto=p.id_producto
 group by b.nombre,b.tipo
-´´´´
 - VISTO DESDE SSM22
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c093a6ed-6130-420f-b6e1-de0bf7bd0516" />
