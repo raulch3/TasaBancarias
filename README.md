@@ -28,3 +28,5 @@ Spread = Tasa Activa Promedio - Tasa Pasiva Promedio
 ```
 # Visto desde SSM22
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a58fce5-e970-4df7-a5e7-d5356ce15664" />
+# VIsualización de datos desde PowerBI (Básico)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9de24af4-5d2d-4e3f-a5da-b3569528e722" />
