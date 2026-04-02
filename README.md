@@ -25,3 +25,6 @@ El **spread** es la diferencia entre la tasa activa y la tasa pasiva:
 
 ```text
 Spread = Tasa Activa Promedio - Tasa Pasiva Promedio
+```
+# Visto desde SSM22
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a58fce5-e970-4df7-a5e7-d5356ce15664" />
