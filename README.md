@@ -4,7 +4,7 @@
 -  La importancia de poder conocer los tasa de interés en el mercado en conceptos de Ahorros y Créditos, es importante para los sujetos de créditos y ahorradores ya que nos facilita o nos dan mas opciones a la hora de toma de decisiones
 - Consulta de Tasa de interes promedios de ahorros y créditos, SPREAD como indentificador de mayor ganancia y menor ganancia desde los 8 hasta los 4.
 - Ejemplo de consulta:
-  ´´´´
+  ´´´ sql
   select
 	b.nombre as Banco,
 	b.tipo as TipoInsitucion,
