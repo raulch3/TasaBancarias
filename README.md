@@ -11,6 +11,9 @@
 [28adfbbf-8141-486f-b8fb-92c7965a9c7d.webm](https://github.com/user-attachments/assets/acdf6f27-b83e-42dd-8ad4-d2363ab8feae)
 
 ## Video
+
+[cdd6a983-0f11-4160-820a-eb891fafea0c.webm](https://github.com/user-attachments/assets/408e4f23-d870-429d-b513-bba67a078432)
+
  
 # Visto desde SSM22
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8a58fce5-e970-4df7-a5e7-d5356ce15664" />
